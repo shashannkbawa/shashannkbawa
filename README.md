@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!--[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
 [<img align="left" alt="prodigiousPrani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shashank-sharma-abvgiet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="snow_stark._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,6 +38,6 @@ src="https://user-images.githubusercontent.com/65407916/90123936-38187980-dd7d-1
 
 [website]: https://github.com/shashannkbawa
 [twitter]: https://twitter.com/prodigiousPrani
-<!--[youtube]: https://youtube.com/codeSTACKr-->
+
 [instagram]: https://www.instagram.com/snow_stark._/
 [linkedin]: https://www.linkedin.com/in/shashank-sharma-abvgiet/

@@ -33,7 +33,7 @@ src="https://user-images.githubusercontent.com/65407916/90123936-38187980-dd7d-1
 <br />
 <br />
 
-<img align="left" alt="shashannkbawa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shashannkbawa&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="shashannkbawa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashannkbawa&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [website]: https://github.com/shashannkbawa

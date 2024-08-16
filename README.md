@@ -1,6 +1,6 @@
 ### Hi there, I'm Shashank - aka [shashannkbawa][website] 👋
 
-## I'm a Student!
+## I'm a Web Dev!
 - 🌱 I’m currently learning everything 🤣
 
 - ⚡ Fun fact: I love to draw and play Football
@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-
+[![](https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,tailwind,vscode,wasm,js,postman,git,aws,bitbucket,dart,docker,figma,flutter,go,graphql,materialui)](https://skillicons.dev)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
